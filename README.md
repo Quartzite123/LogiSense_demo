@@ -14,9 +14,9 @@
 
 ## Live Demo
 
-- **Dashboard:** https://logi-sense-one.vercel.app
+- **Dashboard:** https://logi-sense-demo.vercel.app/
 - **Login:** demo@logisense.app / demo1234
-- **API docs:** https://logisense-1dvc.onrender.com/docs
+- **API docs:** https://logisense-demo.onrender.com
 - **Isolation:** each visitor gets their own session database. Uploads and
   reference-data edits affect only your session, never anyone else's.
 - **Demo upload file:** `tools/demo_upload.xlsx` (upload it to see the
